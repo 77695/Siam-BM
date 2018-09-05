@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Towards a Better Match in Siamese Network Based Visual Object Tracker
 
-You can use the [editor on GitHub](https://github.com/77695/Siam-BM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Siam-BM is a real-time tracker with high performance. Here is the tensorflow implementation of this tracker. You can find raw results file of 60 sequences in VOT2017/VOT2018 in this page. The code will be released soon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Paper:
+  - [Arxiv(under preparing)](#)
+- Demo:
+  - [YouTube](https://youtu.be/b-EqbESSeFk) &#124; [YOUKU](https://v.youku.com/v_show/id_XMzgwOTAwNDg2OA==.html)
+- Results file: 
+  - SA-Siam(Free Angle) - VOT2017/2018: [Baidu Yun](https://pan.baidu.com/s/1m042-NMuUVk_XsciTk5AWw)[r58d]
+  - Siam-BM - VOT2017/2018: [Baidu Yun](https://pan.baidu.com/s/1UwhDs1jyO3Jca3OpTqBbmQ)[8tgw]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/77695/Siam-BM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
